@@ -601,6 +601,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    cursor: pointer;
 }
 
 .contact .row form .inputBox input, .contact .row form textarea {
