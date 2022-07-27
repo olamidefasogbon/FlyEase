@@ -98,7 +98,7 @@ header .logo span {
 
 header .navbar a {
     color: #fff;
-    font-size: 2rem;
+    font-size: 1rem;
     margin: 0 .8rem;
 }
 
@@ -108,10 +108,10 @@ header .navbar a:hover {
 }
 
 header .icons i {
-    font-size: 2.5rem;
+    font-size: 2rem;
     color: #fff;
     cursor: pointer;
-    margin-right: 2rem;   
+    margin-right: 1.5rem;   
 }
 
 header .icons i:hover {
