@@ -1,6 +1,6 @@
 # FlyEase (Formerly Travel-Fash) - Airline Company
 
-FlyEase (formerly known as Travel-Fash) is an open-source airline company web application developed by Olamide Fasogbon, a software engineer. The application provides a user-friendly platform for users to search for flights, make reservations, and access relevant travel information. This README file serves as a comprehensive guide to the project, providing an overview of its features, installation instructions, and contribution guidelines. # <a href="certified-draco.github.io">Wanna Book a Flight?? Click me!</a>
+FlyEase (formerly known as Travel-Fash) is an open-source airline company web application developed by Olamide Fasogbon, a software engineer. The application provides a user-friendly platform for users to search for flights, make reservations, and access relevant travel information. This README file serves as a comprehensive guide to the project, providing an overview of its features, installation instructions, and contribution guidelines. <a href="certified-draco.github.io">Wanna Book a Flight?? Visit FlyEase Now!</a>
 
 ## Features
 
@@ -13,20 +13,6 @@ FlyEase (formerly known as Travel-Fash) is an open-source airline company web ap
 - **User Reviews and Ratings:** FlyEase incorporates a user review and rating system, allowing travelers to share their experiences and provide feedback on airlines, flights, and other travel-related services. This feature helps users make informed decisions when choosing flights and airlines.
 
 - **Customizable Preferences:** Users can customize their FlyEase experience by setting their preferences, such as preferred seat type, meal options, and notification preferences. These customizable settings enhance the user experience and streamline the flight booking process.
-
-## Installation
-
-To set up FlyEase locally, follow these steps:
-
-1. Clone the repository:
-git clone https://github.com/certified-draco/flyease.git
-
-2. Navigate to the project directory:
-cd flyease
-
-3. Open the `index.html` file in your preferred web browser.
-
-Note: Since FlyEase is built using HTML, CSS, and JavaScript, there is no need to install any additional dependencies or run build commands.
 
 ## Contributing
 
