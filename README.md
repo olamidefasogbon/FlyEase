@@ -1,6 +1,6 @@
 # FlyEase (Formerly Travel-Fash) - Airline Company
 
-FlyEase (formerly known as Travel-Fash) is an open-source airline company web application developed by Olamide Fasogbon, a software engineer. The application provides a user-friendly platform for users to search for flights, make reservations, and access relevant travel information. This README file serves as a comprehensive guide to the project, providing an overview of its features, installation instructions, and contribution guidelines. # <a href="certified-draco.github.io">Wanna to Book a Flight?? Click me!</a>
+FlyEase (formerly known as Travel-Fash) is an open-source airline company web application developed by Olamide Fasogbon, a software engineer. The application provides a user-friendly platform for users to search for flights, make reservations, and access relevant travel information. This README file serves as a comprehensive guide to the project, providing an overview of its features, installation instructions, and contribution guidelines. # <a href="certified-draco.github.io">Wanna Book a Flight?? Click me!</a>
 
 ## Features
 
@@ -19,7 +19,7 @@ FlyEase (formerly known as Travel-Fash) is an open-source airline company web ap
 To set up FlyEase locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/your-username/flyease.git
+git clone https://github.com/certified-draco/flyease.git
 
 2. Navigate to the project directory:
 cd flyease
@@ -56,6 +56,6 @@ FlyEase is released under the [MIT License](https://opensource.org/licenses/MIT)
 
 ## Contact
 
-If you have any questions, suggestions, or concerns regarding FlyEase, please feel free to contact Olamide Fasogbon at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions, suggestions, or concerns regarding FlyEase, please feel free to contact Olamide Fasogbon at [successolamide46@gmail.com](mailto:successolamide46@gmail.com).
 
-Thank you for using FlyEase!
+Thank you for Flying with Ease!
